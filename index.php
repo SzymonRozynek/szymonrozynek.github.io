@@ -17,7 +17,7 @@
 		<tr><td align="left">Ilość punktów <td/> <td><input type="int" name="pkt" /> </td> </tr>
 		<tr><td align="left">Maksymalna ilość punktów. <td/> <td><input type="float" name="pktm" /> </td> </tr>
 		<tr><td align="left">Ocena : <td/> <td> <input type="text" name="ocena" /> </td> </tr>
-		<tr><td align="left">Liczba kopii na jednej stronie: <td/> <td><input type="int" name="kopie" /> </td> </tr>
+		<tr><td align="left"> kopii na jednej stronie: <td/> <td><input type="int" name="kopie" /> </td> </tr>
 	    </table>
 		<tr><td align="center" coslpan="2" width="50">Wpisz numery zadań poprzedzone spacją! </td> </tr>
 		<table >
